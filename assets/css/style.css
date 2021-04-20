@@ -1,4 +1,4 @@
-/* remove default browser margin */
+/* remove default browser width and values */
 *{
     margin:  0;
     padding: 0;
@@ -75,4 +75,41 @@ footer div {
 /*apply style to the footer <a> */
 footer a {
     color: #024e76;
+}
+
+section {
+    padding: 60px;
+}
+
+/* Hero Style Start */
+.hero {
+    background-image: url(../images/hero-bg.jpg);
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+/* Hero Style End */
+
+/* Div Class Hero-Form styling */
+.hero-form {
+    color: #024e76;
+    padding: 20px;
+    width: 500px;
+    background-color: #fce138;
+    border: solid 3px #024e76;
+    position: absolute;
+    bottom: 120px;
+    right: 140px;
+}
+
+/* h3 styling */
+section div h3 {
+    font-size: larger;
+    margin: 0px;
+}
+
+/* Hero form <p> spacing */
+.hero-form p {
+    margin: 5px 0 15px 0;
 }
