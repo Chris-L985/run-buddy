@@ -20,11 +20,16 @@ header {
     flex-wrap: wrap;
 }
 
+/* apply styl    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
 /* apply style to header <h1> */
 header h1 {
     font-weight: bold;
     font-size: 36px;
-    color:#fce138 ;
+    color: #fce138;
     margin: 0;
 }
 
@@ -193,8 +198,11 @@ section {
     border-color: #39a6b2;
 }
 
+.steps {
+    background: #fce138;
+}
+
 .step {
-    background-color: #fce138;
     margin: 50px auto;
     padding-bottom: 50px;
     width: 80%;
@@ -298,7 +306,7 @@ section {
 
 /* REACH OUT STYLES START */
 .contact {
-    background-color: #024e76;
+    background: #024e76;
 }
 
 .contact h2 {
