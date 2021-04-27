@@ -12,3 +12,5 @@ https://chris-l985.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Chris Lopez
+
+# Run Buddy Inc.
